@@ -2,7 +2,7 @@ LightPayCoin (fork of PIVX) integration/staging repository
 ======================================
 
 
-It is recommended [use the shell script](https://github.com/lpcproject/lpcinstall) to install a LightPayCoin Masternode on a Linux server running Ubuntu 14.04 or 16.04
+It is recommended [use the shell script](https://github.com/lpcproject/lpcinstall) to install a LightPayCoin Masternode on a Linux server running Ubuntu 14.04, 16.04 or 18.04
 
 ***
 
